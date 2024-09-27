@@ -96,6 +96,10 @@
     background: var(--bs-light);
 }
 
+.bg-primary-1{
+    background-color: #7F73E3;
+}
+
 
 /*** Topbar Start ***/ 
 .topbar .dropdown-toggle::after {
